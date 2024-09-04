@@ -187,5 +187,5 @@ Shader "Custom/ForwardRendering"
             ENDCG
         }
     }
-    FallBack "Diffuse"
+    FallBack "Specular"
 }
